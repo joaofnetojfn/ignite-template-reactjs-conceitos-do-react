@@ -9,7 +9,9 @@ Sou um FullStack Developer :computer:
 
   &nbsp;
   <h4 align="center"> 
-	Desafio: Conceitos do React
+  <a href="https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d">Desafio 1</a>
+	Desafio: Conceitos do React, abordado componentização.
+ 
   </h4>
   
   <h1 align="center">
@@ -26,7 +28,7 @@ Sou um FullStack Developer :computer:
 <div align="center">
   <sub>Construído com ❤︎ por
     <a href="https://github.com/joaofnetojfn">João Ferreira Neto</a> and
-    <a href="https://github.com/joaofnetojfn/Proffy_030820_WEb/graphs/contributors">
+    <a href="https://rocketseat.com.br/">
       contributors
     </a>
   </sub>
