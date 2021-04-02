@@ -10,7 +10,7 @@ Sou um FullStack Developer :computer:
   &nbsp;
   <h4 align="center"> 
   <a href="https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2f4d4bae94f9fe75bb769d">Desafio 1</a>
-	Desafio: Conceitos do React, abordado componentização.
+	: Conceitos do React, abordado componentização.
  
   </h4>
   
@@ -49,7 +49,6 @@ Sou um FullStack Developer :computer:
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
    <img src="./IMG-Readme/index_web.png" width="400px">
-   <img src="./IMG-Readme/web-list.png" width="400px">
 </div> 
 
 # :computer: Tecnologias
