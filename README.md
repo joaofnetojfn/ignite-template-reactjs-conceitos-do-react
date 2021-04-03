@@ -70,7 +70,7 @@ $ git clone https://github.com/joaofnetojfn/ignite-template-reactjs-conceitos-do
 
 ```bash
 # Vá para a pasta web
-$ cd ignite-temp
+$ cd ignite-template-reactjs-conceitos-do-react
 
 # Instale as depedencias
 $ yarn install
